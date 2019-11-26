@@ -21,7 +21,6 @@ and can be accessed using API in the browser eg. https://localhost:44310/api/Con
 Instructions on how to open and Run Solution
 
 1. Open https://github.com/PathakRitvij/ContactManagement
-
 2.click on clone or download btton
 3. Click on Download zip
 4. ContactManagement-master.Zip file will be downloaded
