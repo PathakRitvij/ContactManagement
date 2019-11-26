@@ -15,3 +15,23 @@ the cotact list. Existing contact can also be searched using the search option b
 
 Contact Management business functionality is also exposed By Web API 
 and can be accessed using API in the browser eg. https://localhost:44310/api/Contacts    https://localhost:44310/api/Contacts/3 , etc to get output in JSON format.
+
+
+
+Instructions on how to open and Run Solution
+
+1. Open https://github.com/PathakRitvij/ContactManagement
+2.click on clone or download btton
+3. Click on Download zip
+4. ContactManagement-master.Zip file will be downloaded
+5. Right click on and click Extract All option 
+6. A folder named ContactManagement-master will be generated at the designated path
+7. Right click on ContactManagement-master folder , select prperties and uncheck read only attribute for folder and all subfolders and files
+8. Go to  ContactManagement-master inside ContactManagement-master i.e. to path like D:\ContactManagement-master\ContactManagement-master
+9. Right click ContactManagement.Zip to extract the source code.
+10. Right click on ContactManagement folder , select prperties and uncheck read only attribute for folder and all subfolders and files
+11. open the path like D:\ContactManagement-master\ContactManagement-master\ContactManagement\ContactManagement\ContactManagement 
+to find ContactManagement.sln file.
+12. Right click on ContactManagement.sln and open with Visual studio 2019.
+13. Run the solution.
+14. Go to Contact Management tab to perform CRUD operations on contacts data.
